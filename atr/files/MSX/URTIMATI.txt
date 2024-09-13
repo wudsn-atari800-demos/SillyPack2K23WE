@@ -1,0 +1,5 @@
+Compo - Atari POKEY
+Author - Poison/Poison6502
+Format - CMC MONO, normal mode, 3channels
+Year - 2023
+Urtimatical Dormaknul (in MONO)

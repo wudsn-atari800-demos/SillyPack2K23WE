@@ -1,0 +1,52 @@
+Hello !
+
+Sorry for my bad English.
+
+I am a programmer from the Czech Republic. I have programmed games such as:
+ - Pacman labyrinth
+ - Space invaders battle
+ - Ufon
+ - Ninja-help-icopter
+ - Robbery
+ - Fire fighter Tobik
+ - ZdendaZuma I.
+ - ZdendaZuma II. (with 7 datadisks)
+ - Multijoy roulette for 17-players (16 players play with a joystick via multijoy and the last one on the keyboard as a croupier)
+ - Bombeeno
+ - Atari hotline
+ - Dark City Road
+ - Greedy bat
+ - Robot and Minion
+ - Tetris T
+ - ...
+
+I confirm that I wrote all these games myself, every one byte.
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+PlanetRescueMission
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+!!! IMPORTANT:
+ The game consists of 2 XEX files, each run on a separate Atari.
+ 1) The main "PlanetRescueMission_mainGame.xex" contains the main game, it can run independently, the auxiliary "PlanetRescueMission_auxiliary.xex" is not needed.
+    This XEX is for atari with "1MB rambo" - I tested it on Atari 600XL with "AVG SUB cart" (with pbi-cable connected so that I have 64kB memory on 600XL + 1MB rambo).
+ 2) The auxiliary "PlanetRescueMission_auxiliary.xex" is not needed for playing, but if is present on second Atari, the main program communicates with it.
+    This XEX needs only basic 64kB memory, I tested it on Atari 800XL without any modifications.
+
+!!! IMPORTANT:
+ If you want to enjoy the game with second Atari, both Atari must be connected via joystick-ports:
+ cable must be from Atari with "PlanetRescueMission_mainGame.xex" JOY 2 to Atari with "PlanetRescueMission_auxiliary.xex" JOY 1.
+
+!!! IMPORTANT:
+ The main "PlanetRescueMission_mainGame.xex" contains the main game, it can run independently, the auxiliary "PlanetRescueMission_auxiliary.xex" is not needed.
+
+!!! IMPORTANT:
+ In the game u can find rooms in DARKNESS (without lights) - in that case u can use the flashlight (JOY-BUTTON), however, the fuel will be consumed faster and u will see all the colors in the room in yellow shades.
+
+Using the [M] key the FULL MAP of the maze will be displayed.
+
+Game contains 200 different rooms.
+
+To open door u need to find the DOOR-OPENING-CARD, or rescue module crashes.
+
+The author of the music in this game is Poison.

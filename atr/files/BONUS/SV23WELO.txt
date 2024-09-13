@@ -1,0 +1,28 @@
+                       /|
+                      //|.
+                     //_| .
+                 __ // /| .
+                /_ \/\__|. 
+                \\_/  _/|_
+                .g.e.n.d.a.
+
+______________________________________________________
+
+
+                SV23WE logo
+                   (256b)
+______________________________________________________
+
+                code: xeen
+______________________________________________________
+
+     SV 2023 256b 8bit compo, Procedural gfx
+______________________________________________________
+
+     Requirements: standard PAL Atari XL/XE
+	
+Contact: mcora@tlen.pl
+Should run fine from DOS (e.g. DOS2.5) and SIDELoader.
+
+Description:
+My interpretation of Moonie's logo. Greetings to all. Merry Christmas!

@@ -1,0 +1,36 @@
+  Party: Silly Venture 2023 WE
+  Compo: ATARI XL/XE DEMO COMPO
+  Title: Get stupid and Dance!Now
+ Author: Krystone, JAC!
+
+         Krystone
+            .concept
+            .code
+            .sound
+            .gfx
+            .fnt
+
+         JAC!
+            .code support
+            .refactoring
+            .packing
+
+   Info: Standard 64KB only
+         PAL/NTSC
+         Mono
+
+Runtime: minimum 5:10
+
+  Tools: Raster Music Tracker 1.28
+         Adobe Photoshop 25
+         Adobe Audition 24
+         Audacity 3.3.3
+         FabFilter Pro-Q, Pro-C
+         MAD-Assembler 2.1.5
+         Python
+ _                 _
+| | ___ _ _  _ ___| |_ ___ _ _  ___ 
+| |/ / '_| || | __| __| _ | ' '. _ \
+|   /| | | || |__ | |/ /_\| || | __/
+|_|\_|_| |__  |___/\_\____|_||_|__/
+         |_| Dance!Now       2023

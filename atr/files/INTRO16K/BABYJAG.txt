@@ -1,0 +1,30 @@
+  Party: Silly Venture 2023 WE
+  Compo: ATARI XL/XE 16KB INTRO COMPO
+  Title: BabyJag
+ Author: Krystone and JAC!
+
+         Krystone
+            concept
+            story
+            code
+            gfx
+            fnt
+            msx (cover)
+
+         JAC!
+            code
+
+   Info: Mono
+Runtime: minimum 3:00
+
+  Tools: Raster Music Tracker 1.28
+         Adobe Photoshop 25
+         Adobe Audition 24
+         MAD-Assembler 2.1.5
+         MidJourney
+ _                 _
+| | ___ _ _  _ ___| |_ ___ _ _  ___ 
+| |/ / '_| || | __| __| _ | ' '. _ \
+|   /| | | || |__ | |/ /_\| || | __/
+|_|\_|_| |__  |___/\_\____|_||_|__/
+         |_| BabyJag         2023

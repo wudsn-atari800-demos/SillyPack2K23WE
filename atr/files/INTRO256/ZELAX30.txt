@@ -1,0 +1,17 @@
+ Tytu³:
+ 30 years of Zelax
+ 
+ Autor:
+ 
+ Œwiêty/Zelax
+ 
+ Kategoria:
+ 
+ Atari XL/XE Intro 256b
+ 
+ Wymagania:
+ 
+ - standardowe Atari XL/XE
+ 
+ Testowane przy u¿yciu SIO2PC - RespeQt , zainicjalizuj plik wykonywalny
+ 

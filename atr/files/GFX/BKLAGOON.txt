@@ -1,0 +1,7 @@
+A8 - GFX compo - SV2023we
+
+Title: Black Lagoon
+Author: Tiger / NG
+Main file: BKLAGOON.XEX
+Tool: g2f
+

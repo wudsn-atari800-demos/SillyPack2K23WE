@@ -1,0 +1,6 @@
+Autor: Krzysztof Rogowski (Krzyś)
+Kategoria: intro 256B
+Tytuł: SW256
+Napisane w: Quick Assembler
+Sprzęt: Atari 800XL
+Plik wykonywalny: sw256.xex (pod DOSem wymaga ręcznego uruchomienia od adresu $480)

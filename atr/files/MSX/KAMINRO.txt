@@ -1,0 +1,14 @@
+------------------
+--- for SV23se ---
+------------------
+
+Titel: Kamin-Romantik
+
+Autor: Buddy
+
+Date: Nov/Dec-2023
+
+Categorie: Atari XL/XE Music Compo Mono
+
+*.xex for Altirra
+*.mp3 use it with your favorite mp3-player

@@ -1,0 +1,26 @@
+SILLY VENTURE 2023 WINTER EDITION
+
+-*- WILD COMPO -*-
+
+SAPRTOOLS
+by Ivo van Poorten
+Copyright (C) 2023
+
+LZSS Routines
+by DMSC
+Copyright (C) 2020
+
+18 conversions.
+15 systems.
+8 sound chips.
+
+Replay on Atari 8-bit with mono or stereo Pokey.
+
+Public repo with all tools (aylet, ym2sapr, sndh2ym, sid2sapr, vgm2ym, and
+vgm2sapr), source code, and hundreds of conversions:
+
+https://github.com/ivop/saprtools
+
+Accessible after the compo!
+
+"Mary who?" "Merry Christmas!" ~ Laurel & Hardy (Way Out West)

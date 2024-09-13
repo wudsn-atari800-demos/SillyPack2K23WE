@@ -1,0 +1,4 @@
+tytuł: Cyborgop
+autor: Hairdog/BooM!^Dream
+compo: Atari XL/XE Graphics Compo
+konfiguracja sprzętowa: Atari XL/XE

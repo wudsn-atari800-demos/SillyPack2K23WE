@@ -1,0 +1,10 @@
+Inspection
+_______
+Author: +Adam+
+Category: ATASCII
+System: ATARI 8-bit
+Description:
+Remember, all details must be most carefully inspected :)
+
+Comments:
+Created in Playscii (June, August, September, December 2023) for Silly Venture 2023 Winter Edition

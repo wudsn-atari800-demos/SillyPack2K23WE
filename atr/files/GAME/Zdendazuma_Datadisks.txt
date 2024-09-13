@@ -1,0 +1,43 @@
+Hello !
+
+Sorry for my bad English.
+
+I am a programmer from the Czech Republic. I have programmed games such as:
+ - Pacman labyrinth
+ - Space invaders battle
+ - Ufon
+ - Ninja-help-icopter
+ - Robbery
+ - Fire fighter Tobik
+ - ZdendaZuma I.
+ - ZdendaZuma II. (with 7 datadisks)
+ - Multijoy roulette for 17-players (16 players play with a joystick via multijoy and the last one on the keyboard as a croupier)
+ - Bombeeno
+ - Atari hotline
+ - Dark City Road
+ - Greedy bat
+ - Robot and Minion
+ - Tetris T
+ - ...
+
+I confirm that I wrote all these games myself, every one byte.
+I'm writing this mainly because of the ZdendaZuma-Datadisks, so that no one asks if I used Montezuma's original code.
+No, I didn't use the original code, because I can't read other people's code.
+If someone comes to the Czech Republic to Cesky Budejovice, they can view my complete source codes :)
+
+I tested teh game on the original Atari 800XL (Drive 1050) without any modifications - all worked fine.
+Also from old AVG Cart all worked fine.
+When I tested the game on the original Atari 600XL with new SUB AVG Cart, sometimes option SETTINGS / POKEY EMULATION needed to be OFF.
+
+Game requires disconnected BASIC - so press OPTION when you start tham.
+
+This datadisk contains 40 new original rooms, and again - this datadisk IS AN INDEPENDENT GAME.
+I programmed all of this because I think that the original Montezuma is the most beautiful game anyone has ever made - and with this my game I wanted to express my admiration and respect for the author of how much I loved the original.
+Attention - this game saves score and loads rooms from disk, so if you play it in an emulator, set this ATR to R/W in drive !
+I would also like to point out that there are about 110 rooms in the original Montezuma - but many rooms are used even 8 times - while I only have 40 rooms in each data disk, but EVERY ONE IS DIFFERENT - so I have more rooms than the original !
+
+I am also sending a complete map of the game for the sake of interest :)
+
+IMPORTANT INFO - this datadisk is complete made my son Tobik in my room-editor.
+
+And notice - all my datadisks need to be run from disk "D1" !

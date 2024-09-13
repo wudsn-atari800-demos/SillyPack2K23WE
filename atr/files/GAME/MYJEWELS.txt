@@ -1,0 +1,7 @@
+MyJewels (sv23we version)
+-------------------------
+- game for all A8 with at least 16kB of RAM
+- code + gfx: PPs
+- intro sound converted 2 A8 by Buddy
+- first piece of code on Wednesday, November 15th, 2023
+________________________________________PPs, 29.11.2023

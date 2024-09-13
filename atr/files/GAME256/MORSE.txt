@@ -1,0 +1,6 @@
+Autor: Krzysztof Rogowski (Krzyś)
+Kategoria: game 256B
+Tytuł: Morsowanie - Level BASIC
+Napisane w: Quick Assembler
+Sprzęt: Atari 800XL, Atari BASIC Revision C
+Plik wykonywalny: morse.xex (pod DOSem wymaga ręcznego uruchomienia od adresu $480)

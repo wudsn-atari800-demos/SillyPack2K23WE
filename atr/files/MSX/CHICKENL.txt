@@ -1,0 +1,4 @@
+tytuł: Chicken Lake
+autor: Hairdog/BooM!^Dream
+compo: Atari XL/XE Music Compo
+konfiguracja sprzętowa: Atari XL/XE
