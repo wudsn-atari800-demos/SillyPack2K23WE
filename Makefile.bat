@@ -1,11 +1,13 @@
 @rem Run via launch configuration from within WUDSN IDE to see the full logs.
 @echo off
+cd %~dp0
 call Make-Settings.bat
 IF ERRORLEVEL 1 goto :dir_error
 
 cd %BASE_DIR%
 IF ERRORLEVEL 1 goto :dir_error
 
+echo Starting build in %BASE_DIR%.
 rem Check menu structure
 call :check
 
@@ -17,7 +19,7 @@ call :make AUTORUN.AR0
 
 echo Creating disk image.
 set ATR=%RELEASE%.atr
-atr\hias\dir2atr.exe -d -m -b MyDos4534 %ATR% atr\files
+atr\hias\dir2atr.exe -d -m -b MyDos4534 %ATR% atr\files 2>%TEMP%\dir2atr.log
 if ERRORLEVEL 1 goto :dir2atr_error
 echo Done.
 
@@ -43,7 +45,7 @@ echo Packing menu.
 echo Compiling loader.
 %MADS% -s SillyMenu-Loader.asm -l -o:%EXECUTABLE% %2 %3
 if ERRORLEVEL 1 goto :mads_error
-dir SillyMenu.xex %EXECUTABLE% 
+dir SillyMenu.xex %EXECUTABLE% | findstr .xex
 cd ..
 goto :eof
 
@@ -57,6 +59,7 @@ echo ERROR: MADS compilation errors occurred. Check error messages above.
 exit
 
 :dir2atr_error
+type %TEMP%\dir2atr.log
 echo ERROR: DIR2ATR errors occurred. Check error messages above.
 exit
 
