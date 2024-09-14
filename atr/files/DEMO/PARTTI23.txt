@@ -1,29 +1,9 @@
-Party:   Silly Venture 2k23 WE
-Compo:   ATARI XL/XE DEMO COMPO
-Title:   ???
-Author:  ???
-
-         ??? (code)
-         ??? (gfx)
-         ??? (fnt)
-         ??? (msx)
-
-Info:
-         Supports PAL and NTSC
-         Requires BASIC
-         Requires Atari XL OS Rev. 2
-         Requires 128K RAM
-         Requires 256K RAM
-         Requires 320K RAM
-         No sound
-         Mono
-         Mono, 2nd POKEY supported
-         Stereo, 2nd POKEY required
-         Requires VBXE video board
-         SillyPack compatible version
-         Now runs from DOS 2.5
-         Now RESET causes cold start
-         Now runs reliably on real
-         hardware and from DOS 2.5
-
-Tools:   Raster Music Tracker 1.28
+partytime23 by Buddy and PPs
+============================
+- intro for sillyventure 23 winter edition
+- runs on all A8 with at least 48kB RAM
+- supports STEREO POKEY
+- music Buddy
+- code+gfx PPs
+- original sv23we logo by mOOnie
+_____________________________November 2023

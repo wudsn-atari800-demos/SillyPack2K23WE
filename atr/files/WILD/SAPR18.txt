@@ -1,9 +1,14 @@
 Party:   Silly Venture 2k23 WE
 Compo:   WILD COMPO
-Type:    Atari 8-bit Music
-Title:   saprools
-Author:  Ivon van Poorten
-         aka ivop
+Type:    ???
+Title:   ???
+Author:  ???
+
+         ??? (code)
+         ??? (gfx)
+         ??? (fnt)
+         ??? (msx)
+
 Info:
          PAL and NTSC supported
          Requires 128K RAM
@@ -20,6 +25,4 @@ Info:
          Now runs reliably on real
          hardware and from DOS 2.5
 
-Source:  Atari ST
-Title :  Seven Gates Of Jambala Level 11
-Author:  Jochen Hippel
+Tools:   Raster Music Tracker 1.28
