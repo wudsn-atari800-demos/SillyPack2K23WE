@@ -1,28 +1,28 @@
-                       /|
-                      //|.
-                     //_| .
-                 __ // /| .
-                /_ \/\__|. 
-                \\_/  _/|_
-                .g.e.n.d.a.
-
-______________________________________________________
-
-
-                SV23WE Logo
-                   (256b)
-______________________________________________________
-
-                code: xeen
-______________________________________________________
-
-     SV 2023 256b 8bit compo, Procedural gfx
-______________________________________________________
-
-     Requirements: standard PAL Atari XL/XE
-	
+Party:   Silly Venture 2k23 WE
+Compo:   n/a
+Title:   SV23WE Logo (256b)
+Author:  Marek Cora
+         aka xeen/Agenda (code)
 Contact: mcora@tlen.pl
-Should run fine from DOS (e.g. DOS2.5) and SIDELoader.
 
-Description:
-My interpretation of Moonie's logo. Greetings to all. Merry Christmas!
+Info:    No sound
+         256b procedureal graphics
+         Released outside of compo
+
+My interpretation of Moonie's logo.
+Greetings to all. Merry Christmas!
+
+
+
+
+
+
+
+
+                  /|
+                 //|.
+                //_| .
+            __ // /| .
+           /_ \/\__|. 
+           \\_/  _/|_
+           .g.e.n.d.a.
