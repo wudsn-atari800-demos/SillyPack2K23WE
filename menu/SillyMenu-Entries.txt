@@ -142,13 +142,13 @@
      09 - Crazee Rider                       Martin Galway
      10 - H.E.R.O Main Theme                 Unkown
      11 - Sonic - Green Hill Zone            Masato Nakamura, Yuzo Koshiro
-     12 -
-     13 -
-     14 -
-     15 -
-     16 -
-     17 -
-     18 -
+     12 - The Incredible Hulk - Title Theme  Steve Collett, Matt Furniss
+     13 - Sonic The Hedgehog's Gameworld     Kojiro Mikusa
+     14 - Zeliard - Departure                Masakuni Mitsuhashi, H. Godai
+     15 - Crossfire (Floppy Version)         Jay Sullivan
+     16 - Mega Man IV - Title                Kouji Murata
+     17 - Beatmania - Hunting For You        Hiroyuki Togo
+     18 - After Burner II - After Burner     Hiroshi Kawaguchi
  : 04 BOILER (IN THE MIX)                    ZoltarX/New Generation    6.333  :
  : 05 24 minutes                             Poison/Poison6502         5.797  :
  : 06 Sexy Six - Remake                      Miker/New Generation      5.769  :
