@@ -1,5 +1,5 @@
-"British Council"
-
-Author: Odyn1ec
-Category: ATASCII Compo
-System: ATARI XL/XE
+Party:   Silly Venture 2k23 WE
+Compo:   ATASCII
+Title:   British Council
+Author:  Jarek Wyszynski
+         aka Odyn1ec

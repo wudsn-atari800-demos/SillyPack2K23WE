@@ -3,7 +3,7 @@ Compo:   ATARI XL/XE DEMO COMPO
 Title:   Beep'em All VI - RoadSong
 Author:  Krystof Dudek
          aka xxl (code)
-         Artem Flo (msx)
+         Frank Triggs (msx)
          ??? ???
          aka Sim1 (ascii)
 
@@ -11,6 +11,9 @@ Info     Mono
          Now runs from DOS 2.5
          Now RESET causes cold start
          Final release 2023-12-27
+
+Decompressing a song takes about ten
+seconds after your song selection.
 
 The original ATR is also included as
 "SV2K23WE_BeepEmAll_VI.atr" in

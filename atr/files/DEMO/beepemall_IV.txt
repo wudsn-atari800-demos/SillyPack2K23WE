@@ -1,7 +1,0 @@
-100 rem SillyVenture 2023 WE
-110 rem Beep'em All VI by xxl
-120 rem music by Frank Triggs
-130 rem hidden part:
-140 rem RoadSong by Artem Flo
-
-Demo Compo
