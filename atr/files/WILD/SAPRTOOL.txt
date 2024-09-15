@@ -1,3 +1,4 @@
+
 Party:   Silly Venture 2k23 WE
 Compo:   WILD COMPO
 Type:    Atari 8-bit Music
@@ -8,13 +9,18 @@ Author:  Ivon van Poorten
 Tools for creating or manipulating
 Atari 8-bit SAP-R files. This pack
 contains:
-- 18 conversions for
+- 18 example conversions for
 - 15 systems and
 - 8 sound chips.
 
 Replay on Atari 8-bit with mono
 or stereo POKEY depending on the
 the specific tune / conversion.
+
+
+
+Every eaxmple can be started
+from the menu directly.
 
 The public repo with all tools
 (aylet, ym2sapr, sndh2ym, sid2sapr,

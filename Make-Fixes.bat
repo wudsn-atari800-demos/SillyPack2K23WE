@@ -8,6 +8,7 @@ call :fix       BONUS       README    $2000
 call :fix       DEMO        BEEPEMVI
 call :fix       DEMO        BONUS
 call :fix       GAME        ZDENDADD
+call :fix       WILD        SAPRTOOL
 
 goto :eof
 

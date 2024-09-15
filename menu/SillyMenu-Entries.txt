@@ -131,24 +131,24 @@
  : 01 Forever Friends                        TRiAD                     6.706  :
  : 02 Street Fighter I Turbo Preview         kezax/dentifrice          6.615  :
 : 03 saprtools                              Ivo van Poorten           6.614  :
-     -01 -
-     -02 - Seven Gates Of Jambala Level 11  Jochen Hippel
-     -03 -
-     -04 -
-     -05 -
-     -06 -
-     -07 -
-     -08 -
-     -09 -
-     -10 -
-     -11 -
-     -12 -
-     -13 -
-     -14 -
-     -15 -
-     -16 -
-     -17 -
-     -18 -
+     01 - Snatcher - Cold Sleep              Konami Kukeiha Club
+     02 - Seven Gates Of Jambala - Level 11  Jochen Hippel
+     03 - Enchanted Land - Level 1             Jochen Hippel
+     04 - Missile: Ground Zero                 Tim Follin
+     05 - Burnin' Rubber                       Jonathan Dunn & Matthew Cannon
+     06 -
+     07 -
+     08 -
+     09 -
+     10 -
+     11 -
+     12 -
+     13 -
+     14 -
+     15 -
+     16 -
+     17 -
+     18 -
  : 04 BOILER (IN THE MIX)                    ZoltarX/New Generation    6.333  :
  : 05 24 minutes                             Poison/Poison6502         5.797  :
  : 06 Sexy Six - Remake                      Miker/New Generation      5.769  :

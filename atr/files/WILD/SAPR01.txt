@@ -4,20 +4,14 @@ Type:    Atari 8-bit Music
 Title:   saprools
 Author:  Ivon van Poorten
          aka ivop
-Info:
-         PAL and NTSC supported
-         Requires 128K RAM
-         Requires 256K RAM
-         Requires 320K RAM
-         No sound
-         Mono
-         Mono, 2nd POKEY supported
-         Stereo, 2nd POKEY required
-         Requires VBXE video board
-         SillyPack compatible version
-         Now runs from DOS 2.5
-         Now RESET causes cold start
-         Now runs reliably on real
-         hardware and from DOS 2.5
+Info:    Stereo, 2nd POKEY required
 
-Orginal:
+VGM2SAPR v1.3 (STEREO)
+Copyright (C) 2023 by Ivo van Poorten
+LZSS routines (C) 2020 by DMSC
+
+Replay rate: 60Hz
+
+Source: TurboGrafx-16 PC Engine CDROM
+Title : Snatcher - Cold Sleep
+Author: Konami Kukeiha Club
