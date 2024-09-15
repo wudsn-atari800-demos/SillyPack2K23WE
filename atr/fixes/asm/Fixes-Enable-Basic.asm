@@ -35,5 +35,3 @@ ramok	rts
 	ini enable_basic  ;Make sure the loader is execute before main program is loaded
 
 	.endm
-
-	
