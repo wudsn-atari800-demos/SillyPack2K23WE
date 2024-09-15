@@ -36,8 +36,6 @@ I programmed all of this because I think that the original Montezuma is the most
 Attention - this game saves score and loads rooms from disk, so if you play it in an emulator, set this ATR to R/W in drive !
 I would also like to point out that there are about 110 rooms in the original Montezuma - but many rooms are used even 8 times - while I only have 40 rooms in each data disk, but EVERY ONE IS DIFFERENT - so I have more rooms than the original !
 
-I am also sending a complete map of the game for the sake of interest :)
 
-IMPORTANT INFO - this datadisk is complete made my son Tobik in my room-editor.
+IMPORTANT INFO - this datadisk was completely made by my son Tobik in my room editor.
 
-And notice - all my datadisks need to be run from disk "D1" !

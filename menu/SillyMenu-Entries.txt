@@ -119,7 +119,8 @@
 : 01 partytime23                            Buddy and PPs             6.595  :
 : 02 Get stupid and Dance!Now               Krystone and JAC!         6.417  :
 : 03 30th of Zelax                          New Generation            6.408  :
-: 04 Beep'em All IV                         xxl, F.Triggs, Artem Flo  4.606  :
+: 04 Beep'em All IV                         xxl, Frank Triggs         4.606  :
+:    Beep'em All IV - Hidden Part           xxl, Artem Flo            n/a    :
 
  :                                                                            :
  ::--------------------------------------------------------------------------::

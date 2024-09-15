@@ -1,0 +1,49 @@
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   ZdendaZuma II.
+         Datadisk 7
+Author:  Zdenda Zubr
+         aka Zdenda (code, gfx)
+         Zdenek Eisenhammer
+         aka PG (msx)
+
+Info:    Mono
+
+This is a new datadisc for my game
+Zdendazuma II., which was published
+in Abbuc-magazine last year. 
+
+The datadisk contains 40 original
+rooms, every datadisk therefore is an 
+independent game. It datadisk was
+completely made by my son Tobik in
+my room editor.
+
+I programmed all of this because I
+think that the original Montezuma is
+the most beautiful game anyone has
+ever made - and with my game I wanted
+to express my admiration and respect
+for the author of how much I love the
+original.
+
+Attention: This game saves score and
+loads rooms from disk, so if you play
+it in an emulator, set this ATR to
+R/W in the drive!
+
+I would also like to point out that
+there are about 110 rooms in the
+original Montezuma - but many rooms
+are used even 8 times. I only have 40
+rooms in each data disk, but EVERY
+ONE IS DIFFERENT. So I have more
+rooms than the original!
+
+Note: The datadisk need to be run
+from disk drive "D1"!
+
+
+The datadisk comes separately and
+is included in the download as
+"SV2K23WE_ZDENDAZUMA_DATADISK07.atr".

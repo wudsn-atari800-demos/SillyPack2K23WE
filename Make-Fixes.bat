@@ -5,6 +5,10 @@ echo off
 echo Creating and copying fixes
 call :cpy       menu\README.txt atr\files\BONUS\README.txt
 call :fix       BONUS       README    $2000
+call :fix       DEMO        BEEPEMIV
+call :fix       DEMO        BONUS
+call :fix       GAME        ZDENDADD
+
 goto :eof
 
 rem =========
