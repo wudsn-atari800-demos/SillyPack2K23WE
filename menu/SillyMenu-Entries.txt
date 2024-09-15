@@ -136,12 +136,12 @@
      03 - Enchanted Land - Level 1             Jochen Hippel
      04 - Missile: Ground Zero                 Tim Follin
      05 - Burnin' Rubber                       Jonathan Dunn & Matthew Cannon
-     06 -
-     07 -
-     08 -
-     09 -
-     10 -
-     11 -
+     06 - Xak: TAoVS: Water Dragon           Tadahiro Nitta, Ryuji Sasai
+     07 - R-Type                             Chris Huelsbeck & Ramiro Vaca
+     08 - Cybernoid                            Jeroen Tel
+     09 - Crazee Rider                       Martin Galway
+     10 - H.E.R.O Main Theme                 Unkown
+     11 - Sonic - Green Hill Zone            Masato Nakamura, Yuzo Koshiro
      12 -
      13 -
      14 -

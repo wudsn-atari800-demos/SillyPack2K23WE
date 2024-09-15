@@ -1,28 +1,17 @@
 Party:   Silly Venture 2k23 WE
 Compo:   WILD COMPO
-Type:    ???
-Title:   ???
-Author:  ???
+Type:    Atari 8-bit Music
+Title:   saprools
+Author:  Ivon van Poorten
+         aka ivop
+Info:    Mono
 
-         ??? (code)
-         ??? (gfx)
-         ??? (fnt)
-         ??? (msx)
+SID2SAPR v1.10 (STEREO)
+Copyright (C) 2023 by Ivo van Poorten
+LZSS routines (C) 2020 by DMSC
 
-Info:
-         PAL and NTSC supported
-         Requires 128K RAM
-         Requires 256K RAM
-         Requires 320K RAM
-         No sound
-         Mono
-         Mono, 2nd POKEY supported
-         Stereo, 2nd POKEY required
-         Requires VBXE video board
-         SillyPack compatible version
-         Now runs from DOS 2.5
-         Now RESET causes cold start
-         Now runs reliably on real
-         hardware and from DOS 2.5
+Replay rate: 50Hz
 
-Tools:   Raster Music Tracker 1.28
+Source: Commodore 64
+Title : R-Type
+Author: Chris Huelsbeck & Ramiro Vaca
