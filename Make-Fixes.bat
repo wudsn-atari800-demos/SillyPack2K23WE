@@ -1,14 +1,22 @@
 setlocal
+echo off
 call Make-Settings.bat
 cd %BASE_DIR%
-echo off
 echo Creating and copying fixes
+set SAPRTOOLS_DIR=C:\jac\system\Atari800\Programming\Repositories\Tools\saprtools
+set WILD_DIR=atr\files\WILD
+echo on
+copy %SAPRTOOLS_DIR%\vgm2sapr\xex\pce-snatcher-cold-sleep.xex %WILD_DIR%\SAPR01.xex
+pause
+exit /b
+
 call :cpy       menu\README.txt atr\files\BONUS\README.txt
 call :fix       BONUS       README    $2000
 call :fix       DEMO        BEEPEMVI
 call :fix       DEMO        BONUS
 call :fix       GAME        ZDENDADD
 call :fix       WILD        SAPRTOOL
+
 
 goto :eof
 
