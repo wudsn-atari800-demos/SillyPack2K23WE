@@ -7,8 +7,26 @@ set SAPRTOOLS_DIR=C:\jac\system\Atari800\Programming\Repositories\Tools\saprtool
 set WILD_DIR=atr\files\WILD
 echo on
 copy %SAPRTOOLS_DIR%\vgm2sapr\xex\pce-snatcher-cold-sleep.xex %WILD_DIR%\SAPR01.xex
-pause
-exit /b
+copy %SAPRTOOLS_DIR%\ym2sapr\xex\7gates-level11.xex %WILD_DIR%\SAPR02.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-softbass\enchanted-l1.xex %WILD_DIR%\SAPR03.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-softbass\missile-ground0.xex %WILD_DIR%\SAPR04.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR05.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-softbass\xak-dragon.xex %WILD_DIR%\SAPR06.xex
+copy %SAPRTOOLS_DIR%\sid2sapr\xex\huelsbeck-rtype.xex %WILD_DIR%\SAPR07.xex
+copy %SAPRTOOLS_DIR%\sid2sapr\xex-softbass\tel-cybernoid.xex %WILD_DIR%\SAPR08.xex
+copy %SAPRTOOLS_DIR%\vgm2sapr\xex\bbc-crazeerider.xex %WILD_DIR%\SAPR09.xex
+copy %SAPRTOOLS_DIR%\vgm2sapr\xex\sg1k-hero.xex %WILD_DIR%\SAPR10.xex
+
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR11a.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR12a.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR13a.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR14a.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR15a.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR16a.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR17a.xex
+copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR18a.xex
+rem pause
+rem exit /b
 
 call :cpy       menu\README.txt atr\files\BONUS\README.txt
 call :fix       BONUS       README    $2000
