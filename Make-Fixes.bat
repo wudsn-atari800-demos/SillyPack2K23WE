@@ -6,32 +6,38 @@ cd %BASE_DIR%
 echo Creating and copying fixes
 
 rem SAPRTOOLS have been fixed in the original repo.
-set SAPRTOOLS_DIR=C:\jac\system\Atari800\Programming\Repositories\Tools\saprtools
+set SAPRTOOLS_DIR=C:\jac\system\Atari800\Programming\Repositories\Tools\saprtools\xex
 set WILD_DIR=atr\files\WILD
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\pce-snatcher-cold-sleep.xex %WILD_DIR%\SAPR01.xex
-copy %SAPRTOOLS_DIR%\ym2sapr\xex\7gates-level11.xex %WILD_DIR%\SAPR02.xex
-copy %SAPRTOOLS_DIR%\ym2sapr\xex-softbass\enchanted-l1.xex %WILD_DIR%\SAPR03.xex
-copy %SAPRTOOLS_DIR%\ym2sapr\xex-softbass\missile-ground0.xex %WILD_DIR%\SAPR04.xex
-copy %SAPRTOOLS_DIR%\ym2sapr\xex-mono\burnin.xex %WILD_DIR%\SAPR05.xex
-copy %SAPRTOOLS_DIR%\ym2sapr\xex-softbass\xak-dragon.xex %WILD_DIR%\SAPR06.xex
-copy %SAPRTOOLS_DIR%\sid2sapr\xex\huelsbeck-rtype.xex %WILD_DIR%\SAPR07.xex
-copy %SAPRTOOLS_DIR%\sid2sapr\xex-softbass\tel-cybernoid.xex %WILD_DIR%\SAPR08.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\bbc-crazeerider.xex %WILD_DIR%\SAPR09.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\sg1k-hero.xex %WILD_DIR%\SAPR10.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\sms-sonic-ghz.xex %WILD_DIR%\SAPR11.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\gg-hulk.xex %WILD_DIR%\SAPR12.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\pico-sonicgw.xex %WILD_DIR%\SAPR13.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\tandy-zeliard.xex %WILD_DIR%\SAPR14.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\ibmpcjr-crossfire.xex %WILD_DIR%\SAPR15.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\gb-megaman4-title.xex %WILD_DIR%\SAPR16.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\gbc-beatmania-hunting.xex %WILD_DIR%\SAPR17.xex
-copy %SAPRTOOLS_DIR%\vgm2sapr\xex\pce-after-burner2.xex %WILD_DIR%\SAPR18.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\pce-snatcher-cold-sleep.xex %WILD_DIR%\SAPR01.xex
+call :cpy %SAPRTOOLS_DIR%\ym2sapr\stereo\7gates-level11.xex %WILD_DIR%\SAPR02.xex
+call :cpy %SAPRTOOLS_DIR%\ym2sapr\softbass\enchanted-l1.xex %WILD_DIR%\SAPR03.xex
+call :cpy %SAPRTOOLS_DIR%\ym2sapr\softbass\missile-ground0.xex %WILD_DIR%\SAPR04.xex
+call :cpy %SAPRTOOLS_DIR%\ym2sapr\mono\burnin.xex %WILD_DIR%\SAPR05.xex
+call :cpy %SAPRTOOLS_DIR%\ym2sapr\softbass\xak-dragon.xex %WILD_DIR%\SAPR06.xex
+call :cpy %SAPRTOOLS_DIR%\sid2sapr\stereo\huelsbeck-rtype.xex %WILD_DIR%\SAPR07.xex
+call :cpy %SAPRTOOLS_DIR%\sid2sapr\softbass\tel-cybernoid.xex %WILD_DIR%\SAPR08.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\bbc-crazeerider.xex %WILD_DIR%\SAPR09.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\sg1k-hero.xex %WILD_DIR%\SAPR10.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\sms-sonic-ghz.xex %WILD_DIR%\SAPR11.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\gg-hulk.xex %WILD_DIR%\SAPR12.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\pico-sonicgw.xex %WILD_DIR%\SAPR13.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\tandy-zeliard.xex %WILD_DIR%\SAPR14.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\ibmpcjr-crossfire.xex %WILD_DIR%\SAPR15.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\gb-megaman4-title.xex %WILD_DIR%\SAPR16.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\gbc-beatmania-hunting.xex %WILD_DIR%\SAPR17.xex
+call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\pce-after-burner2.xex %WILD_DIR%\SAPR18.xex
 
 call :cpy       menu\README.txt atr\files\BONUS\README.txt
 call :fix       BONUS       README    $2000
 call :fix       DEMO        BEEPEMVI
 call :fix       DEMO        BONUS
 call :fix       GAME        ZDENDADD
+call :fix       GAME256     MORSE
+call :fix       INTRO16k    WINTERBY
+call :fix       INTRO256    RETURNBS
+call :fix       INTRO256    ZELAX30
+call :fix       INTRO256    SW256
+call :fix       MSX         KAMINRO
 call :fix       WILD        SAPRTOOL
 
 

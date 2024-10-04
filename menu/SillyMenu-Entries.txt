@@ -65,7 +65,7 @@
  ::--------------------------------------------------------------------------::
  ::   TITLE:                                 AUTHOR:                   PTS:  ::
  ::--------------------------------------------------------------------------::
-: 01 Urtimatical Dormaknul (in MONO)        Poison/Poison6502         6.904  :
+: 01 Urtimatical Dormaknul                  Poison                    6.904  :
 : 02 Kamin-Romantik                         Buddy                     6.667  :
 : 03 Chicken Lake                           Hairdog/BooM!^Dream       6.125  :
 
@@ -85,7 +85,7 @@
  ::--------------------------------------------------------------------------::
 : 01 Planet Rescue Mission                  Zdenda                    7.529  :
      Planet Rescue Mission Auxilary Disk
-: 02 MyJewels                               PPs                       6.087  :
+: 02 MyJewels                             PPs                       6.087  :
 : 03 ZdendaZuma II. Datadisk 7              Zdenda                    5.522  :
 
  :                                                                            :
@@ -105,9 +105,9 @@
  ::--------------------------------------------------------------------------::
  ::   TITLE:                                 AUTHOR:                   PTS:  ::
  ::--------------------------------------------------------------------------::-
-: 01 Galaxy                                 R0ger                     8.015  :
+: 01 Galaxy                               R0ger                     8.015  :
 : 02 BabyJag                                Krystone and JAC!         7.118  :
-: 03 Winter Bytes                           Samar                     6.552  :
+: 03 Winter Bytes                         Samar                     6.552  :
 : 04 Offshoot                               TRiAD                     6.118  :
 
  :                                                                            :
