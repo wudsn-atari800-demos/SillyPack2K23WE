@@ -14,10 +14,10 @@ Zdendazuma II., which was published
 in Abbuc-magazine last year. 
 
 The datadisk contains 40 original
-rooms, every datadisk therefore is an 
-independent game. It datadisk was
-completely made by my son Tobik in
-my room editor.
+rooms, every datadisk therefore is
+an independent game. The datadisk
+was completely made by my son Tobik
+in my room editor.
 
 I programmed all of this because I
 think that the original Montezuma is
@@ -40,8 +40,8 @@ rooms in each data disk, but EVERY
 ONE IS DIFFERENT. So I have more
 rooms than the original!
 
-Note: The datadisk need to be run
-from disk drive "D1"!
+Note: The datadisk needs to be run
+from disk drive "D1:"!
 
 
 The datadisk comes separately and
