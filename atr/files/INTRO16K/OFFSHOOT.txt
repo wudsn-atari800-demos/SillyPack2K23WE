@@ -1,3 +1,6 @@
-Category: Atari XL/XE - Intro 16KB
-Title: Offshoot
-Author(s): TRIAD
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   Offshoot
+Author:  TRiAD
+
+Info:    Mono

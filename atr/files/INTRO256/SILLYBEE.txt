@@ -1,27 +1,12 @@
 Party:   Silly Venture 2k23 WE
 Compo:   ATARI XL/XE 256B INTRO COMPO
-Title:   ???
-Author:  ???
+Title:   Silly Bees
+Author:  Grzegorz Zyla
+         aka SuN/NG
+Contact: grzegorzsun@gmail.com
 
-         ??? (code)
-         ??? (gfx)
-         ??? (fnt)
-         ??? (msx)
-
-Info:
-         PAL and NTSC supported
-         Requires BASIC
-         Requires Atari XL OS Rev. 2
-         Requires 128K RAM
-         Requires 256K RAM
-         Requires 320K RAM
-         No sound
+Info:    Requires Atari XL OS Rev. 2
          Mono
-         Mono, 2nd POKEY supported
-         Stereo, 2nd POKEY required
-         Requires VBXE video board
-         SillyPack compatible version
-         Now runs from DOS 2.5
-         Now RESET causes cold start
-         Now runs reliably on real
-         hardware and from DOS 2.5
+
+Help:    miker, Zoltar
+         for buzzing of bees

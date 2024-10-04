@@ -1,7 +1,10 @@
-  Party: Silly Venture 2023 WE
-  Compo: ATARI XL/XE 16KB INTRO COMPO
-  Title: BabyJag
- Author: Krystone and JAC!
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   BabyJag
+Author:  Krystian Sergiejew
+         aka Krystone 
+         Peter Dell
+         aka  JAC!
 
          Krystone
             concept
@@ -14,10 +17,10 @@
          JAC!
             code
 
-   Info: Mono
-Runtime: minimum 3:00
+Info:    Mono
+Runtime: Minimum 3:00
 
-  Tools: Raster Music Tracker 1.28
+Tools:   Raster Music Tracker 1.28
          Adobe Photoshop 25
          Adobe Audition 24
          MAD-Assembler 2.1.5

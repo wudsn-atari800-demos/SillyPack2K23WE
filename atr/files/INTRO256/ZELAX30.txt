@@ -1,17 +1,5 @@
- Tytu³:
- 30 years of Zelax
- 
- Autor:
- 
- Œwiêty/Zelax
- 
- Kategoria:
- 
- Atari XL/XE Intro 256b
- 
- Wymagania:
- 
- - standardowe Atari XL/XE
- 
- Testowane przy u¿yciu SIO2PC - RespeQt , zainicjalizuj plik wykonywalny
- 
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   30 years of Zelax
+Author:  Krzysztof Swiecicki
+         aka swiety/Zelax

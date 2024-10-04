@@ -1,8 +1,8 @@
-   title: Return Before Sunrise
-  author: sheriff
-   party: Silly Venture 2023 WE
-category: Atari XL/XE Intro 256b
-hardware: original Atari XL/XE 64KB PAL
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   Return Before Sunrise
+Author:  Michal Sawczuk
+         aka sheriff
 
-Tested on real hardware, Altirra, Atari800Win Plus, Colleen.
-Run it with clean memory, not tested with any DOS.
+Info:    Mono
+         SillyPack compatible version

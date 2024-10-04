@@ -1,2 +1,7 @@
-Autor: Samar
-Title Winter Bytes
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   Winter Bytes
+Author:  Samar
+
+Info:    Stereo, 2nd POKEY required
+         Now RESET causes cold start
