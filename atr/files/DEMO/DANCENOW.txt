@@ -1,7 +1,10 @@
-  Party: Silly Venture 2023 WE
-  Compo: ATARI XL/XE DEMO COMPO
-  Title: Get stupid and Dance!Now
- Author: Krystone, JAC!
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   Get stupid and Dance!Now
+Author:  Krystian Sergiejew
+         aka Krystone 
+         Peter Dell
+         aka  JAC!
 
          Krystone
             .concept
@@ -15,13 +18,13 @@
             .refactoring
             .packing
 
-   Info: Standard 64KB only
-         PAL/NTSC
+Info:    64 KB RAM required
+         PAL/NTSC supported
          Mono
 
-Runtime: minimum 5:10
+Runtime: Minimum 5:10
 
-  Tools: Raster Music Tracker 1.28
+Tools:   Raster Music Tracker 1.28
          Adobe Photoshop 25
          Adobe Audition 24
          Audacity 3.3.3
