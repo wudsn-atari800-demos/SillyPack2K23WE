@@ -1,9 +1,13 @@
-partytime23 by Buddy and PPs
-============================
-- intro for sillyventure 23 winter edition
-- runs on all A8 with at least 48kB RAM
-- supports STEREO POKEY
-- music Buddy
-- code+gfx PPs
-- original sv23we logo by mOOnie
-_____________________________November 2023
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   partytime23
+Author:  Ralf Patschke
+         aka PPs (code,gfx)
+         Christian Duesterhoeft
+         aka Buddy (msx)
+         Marcin Dworaczek
+         aka mOOnie (original logo)
+
+Info:    Requires 48k RAM
+         Mono, 2nd POKEY supported
+         Created in November 2023
