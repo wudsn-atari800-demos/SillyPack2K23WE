@@ -7,7 +7,7 @@
  !NE7        ___________     _______\/__
  
  
-          ? songs - ? graphics - ? intros - ? demos - ? games - ? wilds
+    1 bonus - 3 songs - 4 graphics - 8 intros - 5 demos - 5 games - 19 wilds
 
  This pack contains a disk image in MyDos format with all Atari 8-bit releases
  of Silly Venture 2k23 Winter Edition. I felt they deserved a good presentation,
@@ -30,12 +30,24 @@
 
  I have patched the following releases for your seamless pleasure:
 
- * ?                           - SillyPack compatible version
- * ?                           - Now runs from DOS 2.5
-
+ * 30 years of Zelax             - Now performs cold start upon RESET. 
+ * Approaching ventilation shaft - Now runs from DOS 2.5. 
+ * Beep'em All IV                - Now starts with BASIC disabled
+                                   Now runs from DOS 2.5
+ * Beep'em All IV - Hidden Part  - Now runs from DOS 2.5
+ * Kamin-Romantik                - Now loads from DOS 2.5. 
+                                 - Now RESET causes a cold start.
+ * Morsowanie - Level BASIC      - Now starts with BASIC disabled
+ * partytime23                   - SillyPack compatible version
+ * Return Before Sunrise         - SillyPack compatible version
+ * saprtools                     - Now loads from DOS 2.5.
+ * Winter Bytes                  - Now performs cold start upon RESET.
+ 
+ All 18 songs from "saprtool" have been fixed
+ and can be started directly from the menu.
 
  Original ASCII artwork by sim.
- Music "Timeless Announcement - Ploter" by Alex, menu by JAC!
+ Music "Nexus" by Alex, menu by JAC!
 
  This download also contains a pre-configured Altirra installation.
  Just extract the archive to a folder and run "SillyPack2k23WE.bat".
