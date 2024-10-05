@@ -1,4 +1,10 @@
-tytuł: Chicken Lake
-autor: Hairdog/BooM!^Dream
-compo: Atari XL/XE Music Compo
-konfiguracja sprzętowa: Atari XL/XE
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Chicken Lake
+Author:  ??? ???
+         aka Hairdog/BooM!^Dream
+Runtime: 2:28
+
+Player:  Raster Music Tracker 1.28
+         Origial RMT file included
+Info:    Mono

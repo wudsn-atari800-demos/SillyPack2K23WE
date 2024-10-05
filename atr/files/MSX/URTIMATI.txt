@@ -1,5 +1,9 @@
-Compo - Atari POKEY
-Author - Poison/Poison6502
-Format - CMC MONO, normal mode, 3channels
-Year - 2023
-Urtimatical Dormaknul (in MONO)
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Urtimatical Dormaknul
+Author:  Marek Pesout 
+         aka Poison
+Runtime: 3:21
+
+Info:    Mono
+Date:    2024-12-04

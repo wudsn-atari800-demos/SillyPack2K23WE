@@ -8,4 +8,11 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>input/saprtools</name>
+			<type>2</type>
+			<location>C:/jac/system/Atari800/Programming/Repositories/Tools/saprtools</location>
+		</link>
+	</linkedResources>
 </projectDescription>

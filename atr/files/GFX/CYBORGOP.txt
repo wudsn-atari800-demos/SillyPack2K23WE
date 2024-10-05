@@ -1,4 +1,5 @@
-tytuł: Cyborgop
-autor: Hairdog/BooM!^Dream
-compo: Atari XL/XE Graphics Compo
-konfiguracja sprzętowa: Atari XL/XE
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Cyborgop
+Author:  ??? ???
+         aka Hairdog/BooM!^Dream

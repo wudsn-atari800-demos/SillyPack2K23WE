@@ -1,35 +1,27 @@
---------------------------------------
-	    30th of Zelax
-        	    by
-	    NEW GENERATION     
---------------------------------------
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   30th of Zelax
+Author:  New Generation
+
+         Daniel Kozminski
+         aka dely (code,gfx,sprites)
+
+         Pazur (gfx Zelax Logo,
+         originally from Ray of Hope)
+
+         Cupid (2x2 font, remixed,
+         decolored and digits added
+         by dely)
+
+         Michael Szpilowski
+         aka Miker (msx)
+
+Info:    Mono
+
+
 
 We wish you all the best bitches :P
 
   Blasph Brian82 dely Epi Grzybson 
  kris3d Laoo LiSU Miker Mikey Pancio 
   Solo Tatqoo Tiger Voy Yosh ZoltarX
-
---------------------------------------
-
-	       An entry for
-	   Atari 8-bit Demo Compo
-        	      on
-	 Silly Venture 2023 Winter
-	  held in Gdansk, Poland
-	     07.12 - 10.12.2023
-
---------------------------------------
-
-Code: dely
-
-Graphics:
-
-Polonez - dely
-Sprites - dely
-Zelax Logo - Pazur (from Ray of Hope)
-2x2 font - Cupid 
-          (remixed, decolored and 
-          digits added by dely)
-          
-Soundtrack: Miker

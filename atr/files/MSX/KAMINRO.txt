@@ -1,14 +1,16 @@
-------------------
---- for SV23se ---
-------------------
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Kamin-Romantik
+Author:  Christian Diesterhoeft
+         aka Buddy
+Runtime: 3:20
 
-Titel: Kamin-Romantik
+Tracker: Raster Music Tracker 1.34
+         Origial RMT file included
+Info:    Mono
+Date:    November/December 2023
 
-Autor: Buddy
-
-Date: Nov/Dec-2023
-
-Categorie: Atari XL/XE Music Compo Mono
-
-*.xex for Altirra
-*.mp3 use it with your favorite mp3-player
++=========-+  Buddy - Kamin-Romantik
+I  .  ..  .I  for Silly Venture 2023
+I . .:*: . I        Winter-Edition
+I__:****:__I Enjoy the party and XMas!

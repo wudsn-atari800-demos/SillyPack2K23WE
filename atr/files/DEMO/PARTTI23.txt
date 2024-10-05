@@ -10,4 +10,5 @@ Author:  Ralf Patschke
 
 Info:    Requires 48k RAM
          Mono, 2nd POKEY supported
+         Now runs from DOS 2.5
          Created in November 2023

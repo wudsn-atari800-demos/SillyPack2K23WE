@@ -16,6 +16,6 @@ Decompressing a song takes about ten
 seconds after your song selection.
 
 The original ATR is also included as
-"SV2K23WE_BeepEmAll_VI.atr" in
-the download archive. It require you
+"SV2K23WE_BeepEmAll_VI.atr" in the
+download archive. It requires you
 to boot with BASIC enabled.

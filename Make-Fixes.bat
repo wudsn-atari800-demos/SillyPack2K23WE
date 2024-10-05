@@ -29,6 +29,7 @@ call :cpy %SAPRTOOLS_DIR%\vgm2sapr\stereo\pce-after-burner2.xex %WILD_DIR%\SAPR1
 
 call :cpy       menu\README.txt atr\files\BONUS\README.txt
 call :fix       BONUS       README    $2000
+call :fix       DEMO        PARTTI23
 call :fix       DEMO        BEEPEMVI
 call :fix       DEMO        BONUS
 call :fix       GAME        ZDENDADD

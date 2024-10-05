@@ -1,9 +1,10 @@
-Title: Shade Troopers
-Author: Kermit83
-Category: Atari XL/XE Graphics Compo
-Date: 26/11/2023
-Platform: Atari XL/XE
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   
+Title:   Shade Troopers
+Author:  ??? ???
+         aka Kermit83
 Contact: kermit83@o2.pl
-Tools: G2F 4.0.3.1
 
-Silly Venture 2023 Winter Edition
+Date:    2023-11-23
+Tools:   G2F 4.0.3.1

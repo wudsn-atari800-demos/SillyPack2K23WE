@@ -33,8 +33,7 @@ parties/2023/sillyventure23winter
 
 
 Menu background music
-"Timeless Announcement - Ploter"
-by Aleksander Martin (Alex)
+"Nexus" by Aleksander Martin (Alex)
 
 Background music for this readme
 "Max - Title" by Aleksander

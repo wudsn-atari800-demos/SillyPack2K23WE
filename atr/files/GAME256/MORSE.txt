@@ -1,6 +1,17 @@
-Autor: Krzysztof Rogowski (Krzyś)
-Kategoria: game 256B
-Tytuł: Morsowanie - Level BASIC
-Napisane w: Quick Assembler
-Sprzęt: Atari 800XL, Atari BASIC Revision C
-Plik wykonywalny: morse.xex (pod DOSem wymaga ręcznego uruchomienia od adresu $480)
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE 256B GAME COMPO
+Title:   Morsowanie - Level BASIC
+Author:  Krzysztof Rogowski
+         aka Krzys (code)
+
+Info:    Requires Atari BASIC REV. C
+         Mono
+         Loads to address $480
+         SillyPack compatible version
+
+Tools:   Quick Assembler
+
+Recognize the morse code and type the
+correct word. First there are charac-
+ters and sound. From level E on, only
+sound is played.

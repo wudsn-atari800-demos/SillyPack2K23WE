@@ -1,7 +1,17 @@
-MyJewels (sv23we version)
--------------------------
-- game for all A8 with at least 16kB of RAM
-- code + gfx: PPs
-- intro sound converted 2 A8 by Buddy
-- first piece of code on Wednesday, November 15th, 2023
-________________________________________PPs, 29.11.2023
+Party:   Silly Venture 2k23 WE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   MyJewels (sv23we version)
+Author:  Ralf Patschke
+         aka PPs (code, gfx)
+         Christian Duesterhoeft
+         aka Buddy (msx)
+
+Info:    Now loads from DOS 2.5
+         Coding started on 15.11.2023
+         Released on 29.11.2023
+         Final version 05.20.2024
+
+The version that is compatible with
+machines with only 16k RAM comes
+separately and is included in the
+download as "SV2K23WE_MyJewels.atr".
