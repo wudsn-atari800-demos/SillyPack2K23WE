@@ -9,7 +9,7 @@ Author:  Ralf Patschke
 Info:    Now loads from DOS 2.5
          Coding started on 15.11.2023
          Released on 29.11.2023
-         Final version 05.20.2024
+         Final version 05.10.2024
 
 The version that is compatible with
 machines with only 16k RAM comes
