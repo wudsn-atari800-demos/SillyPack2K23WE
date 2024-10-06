@@ -92,7 +92,7 @@
  ::   TITLE:                                 AUTHOR:                   PTS:  ::
  ::--------------------------------------------------------------------------::-
 : 01 Return Before Sunrise                  sheriff                   8.014  :
-: 02 30 years of Zelax                      swiety/Zelax              6.514  :
+: 02 30th Of Zelax                          swiety/Zelax              6.514  :
 : 03 Approaching ventilation shaft          Krzys                     6.275  :
 : 04 Silly Bees                             SuN/New Generation        5.386  :
 
