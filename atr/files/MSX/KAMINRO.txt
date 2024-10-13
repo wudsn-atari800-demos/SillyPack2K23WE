@@ -1,7 +1,7 @@
 Party:   Silly Venture 2k23 WE
 Compo:   ATARI XL/XE POKEY MSX COMPO
 Title:   Kamin-Romantik
-Author:  Christian Diesterhoeft
+Author:  Christian Duesterhoeft
          aka Buddy
 Runtime: 3:20
 
